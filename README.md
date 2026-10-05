@@ -88,11 +88,13 @@ Building scalable systems with **Python** • **FastAPI** • **Java** • **C++
       <h3>🌸 Myra — PCOS Companion App</h3>
       <p>iOS app (Swift/UIKit) with 6+ health modules, on-device Apple Intelligence with 17 AI intents, Gemini 2.5 Flash meal analysis & PDF reports.</p>
       <p><b>Swift • Firebase • HealthKit • Gemini</b></p>
+      <a href="https://github.com/harshitkhanna16/TeamM"><img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>💰 DhanKosh — Loan Management System</h3>
       <p>Two native iOS apps (Staff & Borrower) using SwiftUI, MVVM, Firebase, Razorpay payments, EMI tracking and KYC workflows.</p>
       <p><b>SwiftUI • MVVM • Firebase • Razorpay</b></p>
+      <a href="https://github.com/RajatM-56/Loan-Management-System"><img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
@@ -102,7 +104,12 @@ Building scalable systems with **Python** • **FastAPI** • **Java** • **C++
       <p><b>Python • TensorFlow • Keras • NLP</b></p>
       <a href="https://github.com/harshitkhanna16/Translator-Project"><img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>🌌 Sentiverse — Emotional Wellness App</h3>
+      <p>Immersive SwiftUI iOS app turning 5 emotional states (anger, sadness, stress, confusion, happiness) into an interactive cosmic environment with emotion-driven animations, guided breathing and reflection prompts.</p>
+      <p><b>Swift • SwiftUI • Animations • iOS</b></p>
+      <a href="https://github.com/harshitkhanna16/Sentiverse"><img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
   </tr>
 </table>
 
