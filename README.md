@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:334155&height=190&section=header&text=Harshit%20Khanna&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20iOS%20Developer&descSize=18&descColor=cbd5e1&descAlignY=65" width="100%" alt="Harshit Khanna - Software Engineer | Backend Developer | iOS Developer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:334155&height=190&section=header&animation=fadeIn&text=Harshit%20Khanna&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20iOS%20Developer&descSize=18&descColor=cbd5e1&descAlignY=65" width="100%" alt="Harshit Khanna - Software Engineer | Backend Developer | iOS Developer" />
 
 <br/>
 
-Building scalable systems with Python, FastAPI, Java, C++, Swift and AI/ML
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=CBD5E1&center=true&vCenter=true&width=640&height=40&lines=Building+scalable+backend+systems;REST+and+gRPC+APIs+with+Python+and+FastAPI;Native+iOS+development+with+Swift+and+SwiftUI;AI%2FML+and+reinforcement+learning;Open+to+SDE+opportunities+%7C+Class+of+2027" alt="Animated tagline" />
 
 <br/>
 
