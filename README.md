@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=200&section=header&text=Harshit%20Khanna&fontSize=60&fontColor=ffffff&fontAlignY=40" width="100%" alt="Harshit Khanna banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:334155&height=190&section=header&text=Harshit%20Khanna&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20iOS%20Developer&descSize=18&descColor=cbd5e1&descAlignY=65" width="100%" alt="Harshit Khanna - Software Engineer | Backend Developer | iOS Developer" />
 
-### Software Engineer | Backend Developer | iOS Developer
+<br/>
 
-Building scalable systems with **Python**, **FastAPI**, **Java**, **C++**, **Swift** and **AI/ML**
+Building scalable systems with Python, FastAPI, Java, C++, Swift and AI/ML
 
-[![GitHub](https://img.shields.io/badge/GITHUB-harshitkhanna16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitkhanna16)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harshit-khanna-26301a289)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-Harshit__717-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harshit_717/)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitkhanna2003@gmail.com)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-harshitkhanna16-1f2937?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitkhanna16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Khanna-1f2937?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harshit-khanna-26301a289)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Harshit__717-1f2937?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harshit_717/)
+[![Email](https://img.shields.io/badge/Email-harshitkhanna2003@gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=white)](mailto:harshitkhanna2003@gmail.com)
 
 </div>
 
@@ -141,6 +143,6 @@ Building scalable systems with **Python**, **FastAPI**, **Java**, **C++**, **Swi
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:334155&height=80&section=footer" width="100%" alt="footer" />
 
 </div>
